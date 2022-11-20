@@ -1,4 +1,4 @@
-# gin-mvc-framework
+# gin-basics-framework
 根据其他语言的个人经验基于gin搭建的简单框架结构,仅用于学习参考。
 
 # 目录结构
